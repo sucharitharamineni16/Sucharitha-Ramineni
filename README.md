@@ -15,11 +15,14 @@
 
 ---
 
-## 📂 Projects  
-- ✈️ **Air Canada** – Emerging Trends & Predictive Maintenance  
-- ⚓ **DP World Canada** – BI Dashboards & Forecasting  
-- 👟 **Lululemon** – Text Mining & Retail Analytics  
-- 🤖 **Global AI Jobs Market** – ML Classification & Salary Prediction  
+## 📂 Projects (Coming Soon)  
+I’m currently working on several academic and professional projects, including:  
+- ✈️ Air Canada – Emerging Trends & Predictive Maintenance  
+- ⚓ DP World Canada – BI Dashboards & Forecasting  
+- 👟 Lululemon – Text Mining & Retail Analytics  
+- 🤖 Global AI Jobs Market – ML Classification & Salary Prediction  
+
+(Full project repositories will be added here soon!)
 
 ---
 
